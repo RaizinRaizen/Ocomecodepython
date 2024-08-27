@@ -1,0 +1,5 @@
+print('Ola, mundo!')
+nome = input ('Qualé seu nome?')
+idade = input ('Qual é a sua idade?')
+peso = input ('Qual é seu peso?')
+print(nome, idade, peso)
